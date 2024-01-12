@@ -1,0 +1,7 @@
+{
+  "java.project.referencedLibraries": {
+    "include": ["lib/**/*.jar", "external-libs/gson-2.10.1.jar"],
+    "exclude": ["lib/gson-2.10.1.jar"]
+  },
+  "java.project.explorer.showNonJavaResources": false
+}

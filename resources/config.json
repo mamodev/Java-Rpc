@@ -1,0 +1,11 @@
+{
+  "port": 3000,
+  "autoSaveInterval": 1000,
+  "rankingRefreshInterval": 10000,
+  "hotelFile": "resources/hotels.json",
+  "reviewFile": "resources/reviews.json",
+  "userFile": "resources/users.json",
+  "notificationAddress": "239.0.0.1",
+  "notificationPort": 8888,
+  "swagger": true
+}
